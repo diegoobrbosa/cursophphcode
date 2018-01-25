@@ -1,5 +1,7 @@
 <?php
 
-echo "Teste Ola mundo";
+echo "Ola mundo 123";
+
+echo "Olá hcode!";
 
 ?>
